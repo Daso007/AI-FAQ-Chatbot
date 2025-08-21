@@ -1,0 +1,18 @@
+# Virtual Environment
+.venv/
+faq_bot_env/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local data and indexes (re-creatable)
+faiss_index/
+*.txt
+
+# IDE and OS specific files
+.vscode/
+.idea/
+.DS_Store
